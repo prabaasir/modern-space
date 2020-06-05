@@ -217,10 +217,9 @@ body{
   width: 600px;
   font-style: italic;
   font-size: 17px;
-  line-height: 1.6rem;
   padding: 0 25px;
 }
-.fa-angle-left,.fa-angle-right{
+.fa-angle-left, .fa-angle-right{
   font-size: 25px;
   height: 40px;
   width: 40px;
