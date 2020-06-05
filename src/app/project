@@ -4,11 +4,11 @@
       <span><i class="fa fa-meetup hea-icon"></i></span>
     </div>
     <div class="header">
-      <span><a href="" class="white">Home</a></span>
-      <span><a href="" class="white">About</a></span>
-      <span><a href="" class="white">Project</a></span>
-      <span><a href="" class="white">Service</a></span>
-      <span><a href="" class="white">Contact</a></span>
+      <span><a href="/" class="white">Home</a></span>
+      <span><a href="about" class="white">About</a></span>
+      <span><a href="project" class="white">Project</a></span>
+      <span><a href="service" class="white">Service</a></span>
+      <span><a href="contact" class="white">Contact</a></span>
     </div>
   </div>
   <div>
