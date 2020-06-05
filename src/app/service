@@ -1,0 +1,88 @@
+<section>
+	<div>
+		<img src="https://content-static.upwork.com/blog/uploads/sites/3/2017/11/20100135/Why-Designing-a-Website-is-Like-Building-a-House-feature.jpg" alt="" style="width: 100%;">
+  </div>
+</section>
+<section class="service-main">
+  <div class="service-content">
+    <div class="service-flex">
+      <img src="https://5.imimg.com/data5/BJ/KC/GLADMIN-53722511/civil-engineering-courses-500x500.png" alt="" style="height: 300px;width: 500px">
+    </div>
+    <div class="service-flex fx-column">
+      <span class="service-title">We Provide Better Service</span>
+      <p>
+        Find the best free stock images about civil engineering. Download all photos and use them even for commercial projects.
+        Find the best free stock images about civil engineering. Download all photos and use them even for commercial projects.
+        Find civil engineering background stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.
+      </p>
+    </div>
+  </div>
+  <div class="service-subcontent">
+    <div class="service-align fx-column">
+      <span class="service-title">Our Experiences</span>
+      <span class="long-dash"></span>
+    </div>
+    <div class="fx-row service-link">
+      <a class="service-subtitle show service-active" target="1">Interior Design</a>
+      <a class="service-subtitle show" target="2">Exterior Design</a>
+      <a class="service-subtitle show" target="3">Glazing Solutions</a>
+      <a class="service-subtitle show" target="4">Residencial</a>
+    </div>
+    <div class="service-gallery targetDiv" id="div1">
+      <div>
+        <img src="https://freshome.com/wp-content/uploads/2014/07/GettyImages-523468730.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/originals/62/33/ef/6233ef18386b0316bbfc48213a2aca71.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.ytimg.com/vi/uVbCvp6QMh8/maxresdefault.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/originals/6e/dd/32/6edd32ad85a74262233bed4ddc88e7d4.jpg" alt="" class="service-pics">
+      </div>
+    </div>
+    <div class="service-gallery targetDiv" id="div2" style="display:none">
+      <div>
+        <img src="https://i.ytimg.com/vi/K8jvlnRwPqY/maxresdefault.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/originals/7b/86/e8/7b86e8425479ade11fa118e323b40f63.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/originals/7b/6b/c7/7b6bc782b86348faeaa664c4dede1ff4.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://4.imimg.com/data4/EK/BF/MY-14696750/exterior-design-3d-500x500.jpg" alt="" class="service-pics">
+      </div>
+    </div> 
+    <div class="service-gallery targetDiv" id="div3" style="display:none">
+      <div>
+        <img src="https://cdn.homedit.com/wp-content/uploads/2013/10/glass-facade-house.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://media.architecturaldigest.in/wp-content/uploads/2019/02/dada-partners-architecture-project-caryota-house-main-866x487.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/originals/c7/ac/30/c7ac307b9e2d384ff619cbe0150b38d1.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/originals/5f/1b/09/5f1b09445eafdc7a051e6b2de2a7ec91.jpg" alt="" class="service-pics">
+      </div>
+    </div>
+    <div class="service-gallery targetDiv" id="div4" style="display:none">
+      <div>
+        <img src="https://hhomedesign.com/wp-content/uploads/2015/04/11173601_806968996023558_714645539_n-720x415.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://engineeringdiscoveries.com/wp-content/uploads/2018/12/03613139549129b0.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://thearchitecturedesigns.com/wp-content/uploads/2019/03/25-latest-house-designs-759x500.jpg" alt="" class="service-pics">
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/originals/32/6a/29/326a29d6f58233508fcee1688dd7e36a.jpg" alt="" class="service-pics">
+      </div>
+    </div>
+  </div> 
+</section>
