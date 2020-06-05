@@ -213,6 +213,9 @@ body{
   text-align:center;
   flex: 0 0 50%;
 }
+.fa{
+  display:flex;
+}
 .testimonial{
   width: 600px;
   font-style: italic;
