@@ -12,7 +12,7 @@ body{
 }
 
 .header-contentd{
-  background:url('/src/img/home.jpg');
+  background:url('/src/static/img/home.jpg');
   background-size: cover;
   height: 570px;
 }
