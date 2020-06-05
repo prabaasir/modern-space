@@ -4,10 +4,8 @@ html {
 
 body{
   margin: 0;
-  letter-spacing: 0.1rem;
-  word-spacing: 0.1rem;
   font-size: 1.6rem;
-  line-height: 1.8rem;
+  line-height: 2.7rem;
   font-family: Merriweather,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; 
 }
 
