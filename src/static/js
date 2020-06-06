@@ -14,7 +14,9 @@ $(document).ready(function () {
     $(this).addClass("ad-active");
   });
 });
-
+  $(function(){
+      $('.header').load("index.html"); 
+   });
 //service-page
 $(document).ready(function () {
   $('.service-link .service-subtitle').click(function () {
